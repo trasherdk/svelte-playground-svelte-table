@@ -1,8 +1,20 @@
 {
   "name": "svelte-playground-svelte-table",
-  "private": true,
   "version": "0.0.0",
+  "description": "Svelte playground - javascript - With svelte-table",
+  "private": true,
   "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trasherdk/svelte-playground-svelte-table.git"
+  },
+  "keywords": [],
+  "author": "TrasherDK",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trasherdk/svelte-playground-svelte-table/issues"
+  },
+  "homepage": "https://github.com/trasherdk/svelte-playground-svelte-table#readme",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
